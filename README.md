@@ -1,10 +1,10 @@
 # -fatiu-arilesere
 <div style="background-color:#0d1117; padding:20px; border-radius:10px; font-family:monospace; color:#00ff00;">
-┌──────────────────────────────────────────────────────────────┐
-│ arilesere@github:~$ whoami                                   │
-└──────────────────────────────────────────────────────────────┘
+<h2>┌──────────────────────────────────────────────────────────────┐
+    │ arilesere@github:~$ whoami                                   │
+    └──────────────────────────────────────────────────────────────┘
 echo "Hi, I'm Arilesere Fatiu 👋"
-echo "A DevOps & Cloud Engineering Student | Linux Enthusiast | Automation Lover"
+echo "A DevOps & Cloud Engineering Student | Linux Enthusiast | Automation Lover"</h2>
 ┌──────────────────────────────────────────────────────────────┐
 │ arilesere@github:~$ ls ~/skills                              │
 └──────────────────────────────────────────────────────────────┘
