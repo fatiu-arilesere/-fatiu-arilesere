@@ -1,5 +1,4 @@
 # -fatiu-arilesere
-<div style="background-color:#0d1117; padding:20px; border-radius:10px; font-family:monospace; color:#00ff00;">
   
 '''-------------------------------------------------------------
    |    arilesere@github:~$ whoami                             |
