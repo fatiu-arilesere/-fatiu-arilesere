@@ -1,13 +1,12 @@
 # -fatiu-arilesere
   
-'''-------------------------------------------------------------
+-------------------------------------------------------------
    |    arilesere@github:~$ whoami                             |
    -------------------------------------------------------------
-  '''
 <h2>echo "Hi, I'm Arilesere Fatiu 👋"
 echo "A DevOps & Cloud Engineering Student | Linux Enthusiast | Automation Lover"</h2>
 ┌──────────────────────────────────────────────────────────────┐
-│ arilesere@github:~$ ls ~/skills                              │
+      arilesere@github:~$ ls ~/skills 
 └──────────────────────────────────────────────────────────────┘
 echo "✅ Linux (Ubuntu, CLI)"
 echo "✅ Git & GitHub"
